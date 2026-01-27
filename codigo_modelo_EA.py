@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Modelo predictor de la población con Enfermedad de Alzheimer 
 """
 Created on Thu May 19 10:09:21 2022
 
@@ -165,4 +166,5 @@ a=np.array([b, c], order='C')
 tasa_prevalencia_=[i for i in range(0, 101)]
 
 pruena=tasa_prevalencia_[:65]
+
 
